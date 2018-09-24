@@ -1,0 +1,1 @@
+addHandler application/x-httpd.php .html
